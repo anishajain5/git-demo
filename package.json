@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myMkdir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mmk": "myMkdir.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishajain5/git-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishajain5/git-demo/issues"
+  },
+  "homepage": "https://github.com/anishajain5/git-demo#readme"
+}
